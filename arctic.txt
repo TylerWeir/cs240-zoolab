@@ -1,4 +1,5 @@
-narwhals
-polar bears
-snowy owls
-walruses
+2 narwhals
+3 polar bears
+1 snowy owls
+4 walruses
+3 arctic foxes
