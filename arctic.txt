@@ -1,8 +1,9 @@
 3 arctic foxes
 5 baby seals
-2 narwhils
+2 narwhals
 6 penguins
 3 polar bears
 10 snowy owl
 4 walruses
+1 yeti
 14 yaks
