@@ -1,3 +1,6 @@
+10 Angelfish
+101 starfish
 200 pacific octopus
-999 starfish
+10 otocinclus catfish
 6 manta rays
+
